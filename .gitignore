@@ -1,2 +1,6 @@
 # Project exclude paths
 /out/
+.idea/
+Main.java
+asd.java
+sdd.java

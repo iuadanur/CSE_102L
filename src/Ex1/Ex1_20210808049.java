@@ -1,4 +1,4 @@
-package Ex1_20210808049;
+package Ex1;
 
 public class Ex1_20210808049 {
     public static void main(String[] args) {
